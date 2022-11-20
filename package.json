@@ -1,6 +1,6 @@
 {
   "name": "prepend-selector-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a Webpack plugin for prepending a selector to all your CSS",
   "main": "index.js",
   "license": "MIT",
