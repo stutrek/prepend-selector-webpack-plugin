@@ -4,6 +4,10 @@
   "description": "a Webpack plugin for prepending a selector to all your CSS",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stutrek/prepend-selector-webpack-plugin.git"
+  },
   "dependencies": {
     "postcss": "^5.0.0",
     "postcss-prepend-selector": "^0.3.0"
